@@ -1,4 +1,5 @@
 # 🚀 DevOps Microservice CI/CD Pipeline
+![CI/CD](https://github.com/riiyassha/ci-cd-microservice/actions/workflows/ci-cd.yml/badge.svg)
 
 This project demonstrates a complete CI/CD pipeline for a Node.js microservice using Docker, GitHub Actions, and Kubernetes.
 
